@@ -54,6 +54,10 @@ Image Tags
     rmohr/activemq:5.15.6-alpine
     rmohr/activemq:5.15.9
     rmohr/activemq:5.15.9-alpine
+    torrespro/activemq:5.15.15
+    torrespro/activemq:5.15.15-alpine
+    torrespro/activemq:5.16.3
+    torrespro/activemq:5.16.3-alpine
 
 Port Map
 --------
